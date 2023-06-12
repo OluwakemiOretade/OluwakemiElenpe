@@ -1,6 +1,9 @@
 ### Hi, Welcome to my GitHub Page 
 ![IMG_6251](https://github.com/OluwakemiElenpe/OluwakemiElenpe/assets/108058336/6ffd0988-a50b-4688-bcfc-4dd4efcbc65f)
 
+I'm Oluwakemi Elenpe, a Data Analyst.
+
+I'm passionate about turning raw data into meaningful insights that drive decision-making and help businesses thrive. With a strong background in data analysis and visualization, I have experience working with various data sources and tools to uncover patterns, trends, and opportunities.
 
 <!--
 **OluwakemiElenpe/OluwakemiElenpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
