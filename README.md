@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, Welcome to my GitHub Page 
+![IMG_6251](https://github.com/OluwakemiElenpe/OluwakemiElenpe/assets/108058336/6ffd0988-a50b-4688-bcfc-4dd4efcbc65f)
+
 
 <!--
 **OluwakemiElenpe/OluwakemiElenpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
